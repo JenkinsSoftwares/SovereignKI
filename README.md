@@ -1,5 +1,5 @@
 # SovereignKI
 Battleship AI for a School Project, Parent Program not included
 
-##README##
+# README
 Dependency not Included
